@@ -1,7 +1,7 @@
 import React from 'react';
 
-import SupportContact from './components/SupportContact/SupportContact';
-import SalesInfo from './components/SalesInfo/SalesInfo';
+import SupportContact from './components/support-contact/support-contact';
+import SalesInfo from './components/sales-info/sales-info';
 import PropTypes from 'prop-types';
 import { AccountOverviewContainer, OverviewHeader } from './account-overview-styles';
 
